@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" version="1.1" viewBox="0 0 225 47" xmlns="http://www.w3.org/2000/svg">
+<g transform="matrix(1.0639 0 0 1.0639 -19.215 -24.019)" clip-path="url(#c)">
+<g filter="url(#b)">
+<rect x="34.5" y="34.5" width="22" height="22" rx="3.5" shape-rendering="crispEdges" stroke="#00d99e"/>
+</g>
+<rect x="77.5" y="34.5" width="22" height="22" rx="3.5" stroke="#b0b4d4" stroke-opacity=".12"/>
+<rect x="120.5" y="34.5" width="22" height="22" rx="3.5" stroke="#b0b4d4" stroke-opacity=".12"/>
+<rect x="163.5" y="34.5" width="22" height="22" rx="3.5" stroke="#b0b4d4" stroke-opacity=".12"/>
+<rect x="206.5" y="34.5" width="22" height="22" rx="3.5" stroke="#b0b4d4" stroke-opacity=".12"/>
+<rect x="63" y="45" width="8" height="1" fill="#b0b4d4" fill-opacity=".12"/>
+<rect x="106" y="45" width="8" height="1" fill="#b0b4d4" fill-opacity=".12"/>
+<rect x="149" y="45" width="8" height="1" fill="#b0b4d4" fill-opacity=".12"/>
+<rect x="192" y="45" width="8" height="1" fill="#b0b4d4" fill-opacity=".12"/>
+<g filter="url(#a)">
+<rect x="34.5" y="34.5" width="22" height="22" rx="3.5" stroke="#00d99e"/>
+</g>
+</g>
+<defs>
+<filter id="b" x="0" y="0" width="91" height="91" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="17"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix values="0 0 0 0 0 0 0 0 0 0.85098 0 0 0 0 0.619608 0 0 0 1 0"/>
+<feBlend in2="BackgroundImageFix" result="effect1_dropShadow_240_1842"/>
+<feBlend in="SourceGraphic" in2="effect1_dropShadow_240_1842" result="shape"/>
+</filter>
+<filter id="a" x="22" y="22" width="47" height="47" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur result="effect1_foregroundBlur_240_1842" stdDeviation="6"/>
+</filter>
+<clipPath id="c">
+<rect x="19.468" y="22.478" width="211.16" height="44.177" fill-opacity="0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917" style="paint-order:stroke fill markers"/>
+</clipPath>
+</defs>
+</svg>

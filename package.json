@@ -6,9 +6,19 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.3.1",
+    "aframe": "^1.6.0",
+    "aframe-extras": "^7.5.1",
+    "aframe-htmlembed-component": "^1.0.0",
+    "aframe-super-keyboard": "^2.1.0",
+    "emailjs-com": "^3.2.0",
+    "gsap": "^3.12.5",
+    "libphonenumber-js": "^1.11.12",
+    "react": "^18.0.0",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "three": "^0.132.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +44,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.80.4",
+    "sass-loader": "^16.0.2"
   }
 }
